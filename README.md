@@ -55,4 +55,4 @@ Continuar evoluindo como desenvolvedor, unindo minha experiência com sistemas c
 
 [💼 LinkedIn](https://www.linkedin.com/in/gustavo-rocha-campos-6a2676104)
 
-[📧 Email] gustavo-rocha1995@hotmail.com
+[📧 Email] (gustavo-rocha1995@hotmail.com)
