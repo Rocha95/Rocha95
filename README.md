@@ -22,7 +22,7 @@ Tecnologias:
 🐘 PostgreSQL
 🎬 TMDB API
 
-🔗 [MovieHub] (https://github.com/Rocha95/midia-dashboard)
+[🔗 Acessar o projeto MovieHub](https://github.com/Rocha95/midia-dashboard)
 
 📚 Atualmente estudando
 ⚛️ React e desenvolvimento de aplicações modernas
