@@ -22,7 +22,7 @@ Tecnologias:
 🐘 PostgreSQL
 🎬 TMDB API
 
-🔗 MovieHub (https://github.com/Rocha95/midia-dashboard)
+🔗 [MovieHub] (https://github.com/Rocha95/midia-dashboard)
 
 📚 Atualmente estudando
 ⚛️ React e desenvolvimento de aplicações modernas
@@ -36,6 +36,6 @@ Continuar evoluindo como desenvolvedor, unindo minha experiência com sistemas c
 
 📫 Contato
 
-💼 LinkedIn: (https://www.linkedin.com/in/gustavo-rocha-campos-6a2676104/)
+💼 [LinkedIn:] (https://www.linkedin.com/in/gustavo-rocha-campos-6a2676104/)
 
 📧 Email: gustavo-rocha1995@hotmail.com
