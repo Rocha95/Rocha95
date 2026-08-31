@@ -35,7 +35,5 @@ Tecnologias:
 Continuar evoluindo como desenvolvedor, unindo minha experiência com sistemas corporativos e bancos de dados à construção de aplicações web modernas, escaláveis e bem estruturadas.
 
 📫 Contato
-
-💼 [LinkedIn:] (https://www.linkedin.com/in/gustavo-rocha-campos-6a2676104/)
-
+[💼 LinkedIn](https://www.linkedin.com/in/gustavo-rocha-campos-6a2676104)
 📧 Email: gustavo-rocha1995@hotmail.com
