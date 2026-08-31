@@ -14,6 +14,7 @@ Uma plataforma full stack voltada para descoberta, organização e gerenciamento
 
 O projeto permite explorar informações cinematográficas, organizar bibliotecas e listas pessoais, acompanhar sessões, receber sugestões de filmes e visualizar informações através de dashboards.
 
+
 Tecnologias:
 
 ⚛️ React
@@ -30,7 +31,8 @@ Tecnologias:
 
 [🔗 Acessar o projeto MovieHub](https://github.com/Rocha95/midia-dashboard)
 
-📚 Atualmente estudando
+
+📚 Atualmente estudando:
 ⚛️ React e desenvolvimento de aplicações modernas
 
 🟢 Node.js e construção de APIs
@@ -43,7 +45,10 @@ Tecnologias:
 
 🎯 Objetivo
 
+
+
 Continuar evoluindo como desenvolvedor, unindo minha experiência com sistemas corporativos e bancos de dados à construção de aplicações web modernas, escaláveis e bem estruturadas.
+
 
 
 📫 Contatos:
