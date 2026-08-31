@@ -33,6 +33,7 @@ Tecnologias:
 
 
 📚 Atualmente estudando:
+
 ⚛️ React e desenvolvimento de aplicações modernas
 
 🟢 Node.js e construção de APIs
@@ -43,9 +44,8 @@ Tecnologias:
 
 🤖 Engenharia de IA aplicada ao desenvolvimento de software
 
-🎯 Objetivo
 
-
+🎯 Objetivo:
 
 Continuar evoluindo como desenvolvedor, unindo minha experiência com sistemas corporativos e bancos de dados à construção de aplicações web modernas, escaláveis e bem estruturadas.
 
